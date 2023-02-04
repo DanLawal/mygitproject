@@ -10,3 +10,4 @@ console.log("Fizz");
   console.log("FizzBuzz")
 };
 }'works well'
+'this is the changes i made after creating a branch on git'
