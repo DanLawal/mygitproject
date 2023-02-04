@@ -10,3 +10,4 @@ console.log("Fizz");
   console.log("FizzBuzz")
 };
 }'works well'
+'this change is made after creating emergency brach from master on git'
