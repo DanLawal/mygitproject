@@ -11,3 +11,4 @@ console.log("Fizz");
 };
 }'works well'
 'this is the changes i made after creating a branch on git'
+'this is the change i made after deleting emergency-fix'
