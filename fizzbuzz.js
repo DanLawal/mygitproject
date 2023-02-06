@@ -13,3 +13,4 @@ console.log("Fizz");
 'this change is made after creating emergency brach from master on git'
 'this is the changes i made after creating a branch on git'
 'this is the change i made after deleting emergency-fix'
+'pushing from local to remote origin'
