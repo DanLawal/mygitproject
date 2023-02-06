@@ -7,3 +7,4 @@ function log(message) {
 }
 //making the log function exportable
 module.exports = log;
+//this is done after creating a new branch from github
